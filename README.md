@@ -9,8 +9,11 @@
 
 ## Skills
 
-- **Languages:** English (TOEIC 865), Thai (Native)
+- **Languages:** Golang, Java, JavaScript, TypeScript, Python
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform
+- **Cloud:** GCP
+- **Databases:** MySQL, PostgreSQL, Oracle, Redis, MongoDB
+- **Other Tools:** Git, Postman, SonarQube, Kafka, Nginx
 
 ## GitHub Stats
 
